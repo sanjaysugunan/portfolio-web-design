@@ -1,0 +1,55 @@
+.pro-pic {
+    height: 300px;
+    border-radius: 50%;
+    border: 6px solid #205E61;
+}
+#heroes {
+    background-color: #3F979B;
+    color: white;
+}
+.heroes-font{
+    font-family: 'Caveat', cursive;
+font-family: 'Yanone Kaffeesatz', sans-serif;
+font-size: 90px;
+}
+.navbar-brand{
+    color: aliceblue;
+    font-family: 'Caveat', cursive;
+font-family: 'Yanone Kaffeesatz', sans-serif;
+font-size: 30px;
+}
+#heroes span{
+    color: #04383b;
+    font-size: 120px;
+}
+
+.heroes-text{
+    color: #04383b;
+    font-size: 5px;
+}
+.lead{
+    font-size: 25px;
+    font-weight: 400;
+}
+#skills{
+    background-color: #3F979B;
+    color: aliceblue;
+    font-family: 'Caveat', cursive;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+#skills h2{
+    text-align: center;
+    font-size: 45px;
+}
+
+#skills h5{
+    text-align: center;
+    font-size: 27px;
+}
+#contact-section{
+    background-color: #205E61;
+}
+#footer{
+    background-color: #3F979B;
+    color: aliceblue;
+}
